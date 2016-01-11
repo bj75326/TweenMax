@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+  <meta charset=utf-8>
+  <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+  <title>waxo - fabien huet</title>
+  <meta name=description content="Hello, I’m Fabien, web ninja and food lover.">
+  <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link href="http://fonts.googleapis.com/css?family=Raleway:200,300,700" rel=stylesheet type=text/css>
+  <link rel=stylesheet href=styles/main1444144241867.css>
+  <link rel=author href=https://plus.google.com/u/0/108215978680291843501>
+  <link rel=publisher href=https://plus.google.com/u/0/108215978680291843501>
+  <link rel=icon type=image/png href=img/favicon-196x196.png sizes=196x196>
+  <link rel=icon type=image/png href=img/favicon-96x96.png sizes=96x96>
+  <link rel=icon type=image/png href=img/favicon-32x32.png sizes=32x32>
+  <link rel=icon type=image/png href=img/favicon-16x16.png sizes=16x16>
+  <link rel=icon type=image/png href=img/favicon-128.png sizes=128x128>
+  <link rel=icon href=img/favicon.ico>
+  <meta name=keywords content="web developper, meteor, react, node">
+  <meta property=og:type content=site>
+  <meta property=og:url content=http://wax-o.com/img>
+  <meta property=og:title content="Fabien Huet, web developper">
+  <meta property=og:site_name content=waxo>
+  <meta property=og:locale content=en_US>
+  <meta property=og:description content="Hello, I’m Fabien, web ninja and food lover.">
+  <meta property=og:image content=http://wax-o.com/img/fabien_huet.png>
+  <meta itemprop=name content="Fabien Huet, web developper">
+  <meta itemprop=description content="Hello, I’m Fabien, web ninja and food lover.">
+  <meta itemprop=image content=http://wax-o.com/img/fabien_huet.png>
+  <meta name=twitter:card content=summary>
+  <meta name=twitter:site content=@fabien_huet>
+  <meta name=twitter:title content="Fabien Huet">
+  <meta name=twitter:description content="Hello, I’m Fabien, web ninja and food lover.">
+  <meta name=twitter:creator content=@fabien_huet>
+  <meta name=twitter:image content=http://wax-o.com/img/fabien_huet.png>
+</head>
+
+<body>
+  <div id=main>
+    <nav>
+      <button>EN</button>/
+      <button>FR</button>
+    </nav>
+    <header>waxo</header>
+    <section id=top>
+      <h1>Hi, I’m Fabien.</h1>
+      <h2>Web ninja and food lover.</h2>
+      <p>I like to design and code web things with intensive use of all the new funy and fancy stuff that the modern web is bringing.</p>
+    </section>
+    <section id=bottom>
+      <p>You can find some of my <a target=_blank href="http://republicanordemocrat.meteor.com/">funny web apps</a>, <a target=_blank href="http://wax-o.com/demo/satellites/">experiments</a> or <a target=_blank href="http://sciences.blogs.liberation.fr/">serious sites</a>        online. I'm working daily for big companies and I'm CTO / developper / designer of a small startup. If you ask, I could show you many other things.</p>
+      <p>As all front-end devs, I do have a <a target=_blank href="http://blog.wax-o.com/">small and underfed blog</a> about web and design and you can find some stuff on my <a target=_blank href=https://github.com/fabien-h>almost empty github</a>.</p>
+    </section>
+    <footer>
+      <p>You can reach me on <a target=_blank href=https://twitter.com/fabien_huet>@fabien_huet</a> or by <a target=_blank href=mailto:fabien.huet@gmail.com>mail</a>.</p><img src=img/fabien_huet.png alt="fabien huet"></footer>
+  </div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r] || function(){(i[r].q=i[r].q || []).push(arguments)},i[r].l=1 * new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-10949763-2','auto');ga('send','pageview');
+  </script>
+  <script src=scripts/main1444144241867.js></script>
+</body>
+
+</html>
